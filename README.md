@@ -1,0 +1,2 @@
+# kadiroscpnote
+all note
